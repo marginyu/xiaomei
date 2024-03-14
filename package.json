@@ -1,6 +1,6 @@
 {
-  "name": "@marginyu/xiaomei",
-  "version": "1.0.3",
+  "name": "xiaomei666",
+  "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marginyu/xiaomei"
+    "url": "https://github.com/marginyu/xiaomei666"
   },
-  "website": "https://github.com/marginyu/xiaomei.git",
+  "website": "https://github.com/marginyu/xiaomei666.git",
   "keywords": [
     "binance",
     "client",
@@ -20,13 +20,13 @@
   "author": "marginyu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marginyu/xiaomei/issues"
+    "url": "https://github.com/marginyu/xiaomei666/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/marginyu/xiaomei#readme",
+  "homepage": "https://github.com/marginyu/xiaomei666#readme",
   "dependencies": {
     "@moncici/date-time-processor": "^1.0.3",
     "@moncici/log": "^1.0.2",
